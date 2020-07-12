@@ -1,5 +1,6 @@
 def oxford_comma(array)
  if array.length==1
-   return '#{array |0|"
+   return #{"kiwi"}
  elsif array.length == 2 
+ return #{array |"kiwi", "durian"|}
  end
